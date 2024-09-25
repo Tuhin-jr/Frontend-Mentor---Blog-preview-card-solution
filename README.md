@@ -12,7 +12,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-46h7hhLYTB)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-T6whObeb2Z)
 - Live Site URL: [Live site URL here](https://tuhin-jr.github.io/Frontend-Mentor---Blog-preview-card-solution/)
 
 ### Built with
