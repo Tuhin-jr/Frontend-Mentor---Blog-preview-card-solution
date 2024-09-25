@@ -48,7 +48,7 @@ body {
 
 .card img {
   border-radius: 10px;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem;
 }
 
 .card h3 {
@@ -58,7 +58,7 @@ body {
   padding: 0.4285em 0.857em;
   display: inline-block;
   border-radius: 0.35em;
-  margin: 1rem 0;
+  margin: 1rem 0 0.8125rem;
 }
 
 .card h4 {
